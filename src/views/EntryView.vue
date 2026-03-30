@@ -1,10 +1,13 @@
-<script setup>
-
+<script>
+export default {
+  name: 'EntryView'
+}
 </script>
 
 <template>
-  <router-view />
+
 </template>
 
 <style scoped>
+
 </style>

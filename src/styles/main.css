@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+:root {
+  --color-background-primary: #EADFC4;
+  --color-background-secondary: #FFF8E7;
+
+  --color-text-primary: #2B2B2B;
+
+  --color-surface-selected: #DCCFB0;
+}
