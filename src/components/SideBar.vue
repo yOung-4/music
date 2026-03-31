@@ -62,7 +62,7 @@ export default {
   color: var(--color-text-primary);
   font-family: "Roboto Mono", monospace;
   font-size: 1.75rem;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .divider {
@@ -79,8 +79,9 @@ export default {
 }
 
 .nav-tab {
-  display: flex;
   padding: 0.3125rem 0.625rem;
+
+  display: flex;
   justify-content: center;
   align-items: center;
   gap: 0.625rem;
